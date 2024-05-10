@@ -22,7 +22,7 @@ int main()
             contm++;
         }
     }
-    if (conta == a && contk == k && contm == m && n <= i){
+    if (conta <= a && contk <= k && contm <= m && n <= i){
         printf("Ok =/\n");
     }else{
         printf("Ufa :)\n");
